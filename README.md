@@ -1,4 +1,4 @@
-### WhatsApp MD User Bot
+### ☹︎𝐁𝐄𝐋𝐓𝐀𝐇 𝐓𝐄𝐂𝐇 𝐁𝐎𝐓𝐒☹︎ is the Best...
 
 A simple WhatsApp User bot.
 
@@ -9,7 +9,7 @@ A simple WhatsApp User bot.
    - You will get a session ID in WhatsApp, copy the ID only.
    - If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
-   - [FORK](https://github.com/lyfe00011/whatsapp-bot-md/fork) this repository.
+   - [FORK](https://github.com/Beltahmd/beltah-app-bot/fork) this repository.
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
 
 2. Deploy on Koyeb
